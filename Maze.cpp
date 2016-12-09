@@ -1,6 +1,8 @@
 /* Daniel Adams
    CPSC 340
    Maze.cpp
+   This file contains all of the code which performs the actual path finding.  runHermione() finds a path using a stack, while runRon()
+   finds a path using a queue.
 */
 #ifndef MAZECPP
 #define MAZECPP
